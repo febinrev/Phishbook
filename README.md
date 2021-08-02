@@ -24,3 +24,16 @@ unzip Phishbook.zip
 php -S 0.0.0.0:80
 
 -------------------------------------------------------------------
+
+4. Send the URL to the victim http://<your-ip>/  or use ngrok / portmap.io
+  
+
+                        OR
+  
+Install apache2, Unzip Phishbook.zip inside /var/www/html, then start apache2 service and send http://<your-ip>/ to the victim
+  
+                        OR
+  
+Host it in a php hosting platform
+  
+  
