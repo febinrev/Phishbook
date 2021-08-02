@@ -23,7 +23,7 @@ A Host-it-Yourself Facebook phishing page
 
 
 
-4. Send the URL to the victim http://<your-ip>/  or use ngrok / portmap.io
+4. Send the URL to the victim http://your-ip/  or use ngrok / portmap.io
   
 
 OR
