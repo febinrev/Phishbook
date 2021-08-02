@@ -28,10 +28,10 @@ A Host-it-Yourself Facebook phishing page
 
 OR
   
-Install apache2, Unzip Phishbook.zip inside /var/www/html, then start apache2 service and send http://your-ip/ to the victim
+#### Install apache2, Unzip Phishbook.zip inside /var/www/html, then start apache2 service and send http://your-ip/ to the victim
 
  OR
   
-Host it in a php hosting platform
+#### Host it in a php hosting platform
   
   
